@@ -1,5 +1,5 @@
 {
-  "name": "movieapi",
+  "name": "movie-api",
   "version": "1.0.0",
   "description": "Chalange stage08",
   "main": "server.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/allanfarias1988/movieAPI.git"
+    "url": "git+https://github.com/allanfarias1988/movie-api.git"
   },
   "keywords": [
     "movie",
@@ -21,9 +21,9 @@
   "author": "Allan Farias",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/allanfarias1988/movieAPI/issues"
+    "url": "https://github.com/allanfarias1988/movie-api/issues"
   },
-  "homepage": "https://github.com/allanfarias1988/movieAPI#readme",
+  "homepage": "https://github.com/allanfarias1988/movie-api#readme",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "express": "^4.18.2",
